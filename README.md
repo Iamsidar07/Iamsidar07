@@ -1,3 +1,5 @@
+![coding-typing](https://user-images.githubusercontent.com/95513071/214620056-42283284-d965-4ec3-8913-8c615f16ec3c.gif)
+
 <h1 align="center">Hi 👋, I'm Manoj kumar</h1>
 <h3 align="center">A passionate react and reactNative developer from India.</h3>
 
