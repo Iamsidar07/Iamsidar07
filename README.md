@@ -1,4 +1,4 @@
-![coding-typing](https://user-images.githubusercontent.com/95513071/214620056-42283284-d965-4ec3-8913-8c615f16ec3c.gif)
+![CB Social Content](https://user-images.githubusercontent.com/95513071/215254465-1f169b42-9309-4cce-a52c-1aeccf7a1acd.jpg)
 
 <h1 align="center">Hi 👋, I'm Manoj kumar</h1>
 <h3 align="center">A passionate react and reactNative developer from India.</h3>
