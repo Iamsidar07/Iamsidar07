@@ -1,5 +1,3 @@
-![CB Social Content](https://user-images.githubusercontent.com/95513071/215254465-1f169b42-9309-4cce-a52c-1aeccf7a1acd.jpg)
-
 <h1 align="center">Hi 👋, I'm Manoj kumar</h1>
 <h3 align="center">A passionate react and reactNative developer from India.</h3>
 
