@@ -7,11 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamsidar07" target="blank"><img src="https://img.shields.io/twitter/follow/iamsidar07?logo=twitter&style=for-the-badge" alt="iamsidar07" /></a> </p>
 
-- 🔭 I’m currently working on **Pista app**
-
-- 🌱 I’m currently learning **react native**
-
-- 👨‍💻 All of my projects are available at [https://manoj-kumar-gules.vercel.app/](https://manoj-kumar-gules.vercel.app/)
+- 👨‍💻 All of my projects are available at [manoj-kumar-portfolio.vercel.app/](manoj-kumar-portfolio.vercel.app)
 
 - 💬 Ask me about **react**
 
